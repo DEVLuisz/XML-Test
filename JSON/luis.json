@@ -1,0 +1,12 @@
+{
+  "peoples": [
+    {
+      "name": "Luís Felipe",
+      "age": 22
+    },
+    {
+      "name": "Khyria Car",
+      "age": 20
+    }
+  ]
+}
